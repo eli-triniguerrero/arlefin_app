@@ -43,10 +43,8 @@ Con estos pequeños pasos, realicé los primeros wireframes para realizar un pro
 ### **Wireframes**
 ![Wireframes](/docs/assets/imgs/wireframes.png)
 
-### **Personaje**
 ![Personaje](/docs/assets/imgs/paleta_app.png)
 
-### **Paleta de color**
 ![paleta de color](/docs/assets/imgs/paleta_color.png)
 
 
